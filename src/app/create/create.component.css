@@ -1,0 +1,17 @@
+
+.container{
+    padding: 50px 0px;
+   
+}
+#color{
+  background-color: rgb(255, 215, 201);
+  padding: 15px;
+}
+#create_color{
+    background-color:rgba(236, 139, 49, 0.882) ;
+    color: black;
+}
+#create_color:hover{
+    background-color: rgb(95, 13, 32);
+    color: white;
+}

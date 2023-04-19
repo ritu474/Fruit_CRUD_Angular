@@ -1,0 +1,37 @@
+a:link,a:visited{
+    background-color: rgb(128, 79, 0);
+    color: aliceblue;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+     
+}
+
+a:hover,a:active{
+    background-color: rgb(219, 152, 46);
+    color: black;
+}
+
+.container{
+    padding: 50px 0px;
+   
+}
+#color{
+  background-color: rgba(245, 239, 197, 0.948);
+  padding: 15px;
+}
+
+#row_color{
+    top: 161px;
+    left: 756px;
+    position: absolute;
+    
+}
+#rc {
+    background-color: green;
+}
+#rc:hover{
+    background-color: rgb(59, 71, 34);
+    color: white;
+}

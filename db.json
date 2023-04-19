@@ -1,0 +1,46 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Grapes",
+      "qty": 60,
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "qty": 40,
+      "price": 449
+    },
+    {
+      "id": 3,
+      "name": "Guava",
+      "qty": 50,
+      "price": 300
+    },
+    {
+      "id": 4,
+      "name": "Apple",
+      "qty": 66,
+      "price": 500
+    },
+    {
+      "id": 6,
+      "name": "Watermelon",
+      "qty": 56,
+      "price": 790
+    },
+    {
+      "id": 9,
+      "name": "Orange",
+      "qty": 56,
+      "price": 400
+    },
+    {
+      "id": 10,
+      "name": "Banana",
+      "qty": 68,
+      "price": 150
+    }
+  ]
+}

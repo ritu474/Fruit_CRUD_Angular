@@ -1,0 +1,16 @@
+.container{
+    padding: 50px 0px;
+}
+#color{
+    background-color: beige;
+    padding: 15px;
+  }
+
+#update_color{
+    background-color:rgb(51, 81, 7) ;
+    color: white;
+}
+#update_color:hover{
+    background-color:rgb(169, 180, 155) ;
+    color: black;
+}
